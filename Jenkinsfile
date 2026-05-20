@@ -8,7 +8,7 @@ pipeline {
     environment {
         DIRECTORY_PATH = 'Jenkins-CI-Pipeline'
         TESTING_ENVIRONMENT = 'Staging'
-        PRODUCTION_ENVIRONMENT = 'Rahul'
+        PRODUCTION_ENVIRONMENT = 'Jaswanth'
     }
 
     stages {
